@@ -19,9 +19,6 @@ A Nike-inspired e-commerce demo built with **Laravel 11** (API), **Vue 3**, **La
 
 ## Setup
 
-```powershell
-cd "C:\Users\Kevin Morales\nike-store"
-
 # Install PHP dependencies
 composer install
 
